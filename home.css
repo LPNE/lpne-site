@@ -1,0 +1,69 @@
+html {
+  max-width: 100%;
+  background-color: #FFD700;
+}
+
+.company-logo {
+  width: 45%;
+  height: 40%;
+  display: block;
+  margin: auto;
+}
+
+.header-text {
+  text-align: center;
+  font-family: Kavivanar;
+  font-size: 1.75em;
+  background-color: #6ABB55;
+  color: white;
+}
+
+.comingsoon {
+  text-align: center;
+  font-size: 2.75em;
+  font-family: Marvel;
+}
+
+.image-photo, .image-logo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  float: left;
+}
+
+.info {
+  font-family: Kavivanar;
+  font-size: 2.25em;
+  text-align: center;
+  color: white;
+  background-color: #6ABB55;
+}
+
+.bio {
+  text-align: center;
+  font-size: 1.05em;
+  font-family: Marvel;
+}
+
+.contact-email {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: Marvel;
+  color: white;
+}
+
+.contact-instagram {
+  display: block;
+  width: 30%;
+  height: 30%;
+  margin: auto;
+}
+
+.caption {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  font-family: Kavivanar;
+}
