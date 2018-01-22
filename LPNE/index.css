@@ -1,6 +1,7 @@
 html {
-  max-width: 100%;
+  max-width: 60%;
   background-color: #FFD700;
+  margin: auto;
 }
 
 .company-logo {
